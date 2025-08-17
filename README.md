@@ -1,5 +1,5 @@
 <img src="1.jpg" alt="Chart" width="600">
-<img src="2.png" alt="Chart" width="600">
+<img src="2.jpg" alt="Chart" width="600">
 <img src="3.png" alt="Chart" width="600">
 <img src="4.png" alt="Chart" width="600">
 <img src="5.png" alt="Chart" width="600">
